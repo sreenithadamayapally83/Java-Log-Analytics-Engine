@@ -13,7 +13,7 @@ This project simulates a backend data processing engine designed to analyze larg
 
 
 
-[Image of a data processing pipeline architecture]
+
 
 
 ## Technical Stack
